@@ -5,12 +5,11 @@ A GitHub App built with probot that celebrates new user activity within your rep
 ## GitHub Apps to automate 
 ## and improve your workflow
 
-FEATURES PLACEHOLDER
-##Welcome new users with maintainer defined comments the first time your users:
+Welcome new users with maintainer defined comments the first time your users:
 
-##Create a new issue
-##Open a new pull request
-##Merge their first pull request
+Create a new issue
+Open a new pull request
+Merge their first pull request
 
 ## 1.An app which makes people familiar with github by giving comments on commits and other activities.
 ## 2.Useful for new users.
