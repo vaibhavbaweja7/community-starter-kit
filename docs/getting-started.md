@@ -35,5 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
-Welcome to the project I hope by now you have a fair idea how to intall the project and get it running.
+
+Welcome to our repository!Thanks for adding an issue,if you are reporting a bug or a feature request,please make sure to assign a label to this issue.
