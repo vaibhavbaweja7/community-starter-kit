@@ -2,11 +2,13 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## GitHub Apps to automate 
+## and improve your workflow
 
 FEATURES PLACEHOLDER
 
-## Getting started
+## 1.An app which makes people familiar with github by giving comments on commits and other activities.
+## 2.Useful for new users.
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
